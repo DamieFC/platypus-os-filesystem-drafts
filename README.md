@@ -1,4 +1,4 @@
-# Best OS Filesystem For Me
+# Platypus OS Filesystem
 This is the best filesystem I could think of for my OS. All draft code, *hopefully* will be used for OS.
 ## `root`
 The `r` folder is `/`, but if you have ever created a folder in GitHub before, you can't call it that.
