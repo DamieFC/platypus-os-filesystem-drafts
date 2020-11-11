@@ -7,7 +7,7 @@ The `bin` directory is where all commands go.
 ## `sbin`
 The `sbin` directory is the superuser commands directory. That would be for stuff like adding users, removing users, etc.
 ## `Root` person
-There is a root person, with the home directory located in `r/root`, with one file already there, like an introduction!
+There is a root person, with the home directory located in `r/root`, with one file already there, like a very threatening introduction!
 ## You other people (`y.o.p`)
 The `You other people` directory is located at `r/y.o.p/`. It is for normal users. Right now there's just a `platypusA` (`r/y.o.p/platypusA`) directory, but that will need changing.
 ## Contributing
@@ -16,5 +16,7 @@ Do what you can. This will (eventually) be implemented within Platypus OS, so it
 1. Making filesystem changable by users. It is static, nothing changes.
 2. Adding commands. Has to be usable.
 3. Adding CLIs. I want to have BASH, CROSH, and another one that I have somewhere in my mass of Google Drive folders.
+4. Adding programming languages. Need programming languages.
 ## WAIT!!!! This looks like the Linux/Unix filesystem!
 It's supposed to. I modeled it after the Linux/Unix filesystem. So can I go now? You told me to "WAIT!!!!" :)
+ you did
