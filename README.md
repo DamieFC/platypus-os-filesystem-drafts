@@ -5,11 +5,11 @@ The `r` folder is `/`, but if you have ever created a folder in GitHub before, y
 ## `bin`
 The `bin` directory is where all commands go.
 ## `sbin`
-The `sbin` directory is superuser directory.
+The `sbin` directory is the superuser commands directory. That would be for stuff like adding users, removing users, etc.
 ## `Root` person
 There is a root person, with the home directory located in `r/root`, with one file already there, like an introduction!
 ## You other people (`y.o.p`)
-The `You other people` directory is located at `r/y.o.p/`. It is for normal users. Right now there's just a `platypusA` directory, but that will need changing.
+The `You other people` directory is located at `r/y.o.p/`. It is for normal users. Right now there's just a `platypusA` (`r/y.o.p/platypusA`) directory, but that will need changing.
 ## Contributing
 Do what you can. This will (eventually) be implemented within Platypus OS, so it will be have to be good. Thanks for helping!
 ### What you can help me with if you decide to help.
