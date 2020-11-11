@@ -4,6 +4,8 @@ This is the best filesystem I could think of for my OS. All draft code, *hopeful
 The `r` folder is `/`, but if you have ever created a folder in GitHub before, you can't call it that. I may keep that, but right now I don't know.
 ## `bin`
 The `bin` directory is where all commands go.
+## `sbin`
+The `sbin` directory is superuser directory.
 ## `Root` person
 There is a root person, with the home directory located in `r/root`, with one file already there, like an introduction!
 ## You other people (`y.o.p`)
