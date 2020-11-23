@@ -1,12 +1,14 @@
 # Platypus OS Filesystem
 This is the best filesystem I could think of for my OS. All draft code, *hopefully* will be used for OS.
-## `root`
+## `.github`
+The `.github` folder is just my important Dependabot thing
+## `r`
 The `r` folder is `/`, but if you have ever created a folder in GitHub before, you can't call it that. I may keep that, but right now I don't know.
 ## `bin`
 The `bin` directory is where all commands go.
 ## `sbin`
 The `sbin` directory is the superuser commands directory. That would be for stuff like adding users, removing users, etc.
-## `Root` person
+## `Root`
 There is a root person, with the home directory located in `r/root`, with one file already there, like a very threatening introduction!
 ## You other people (`y.o.p`)
 The `You other people` directory is located at `r/y.o.p/`. It is for normal users. Right now there's just a `platypusA` (`r/y.o.p/platypusA`) directory, but that will need changing.
