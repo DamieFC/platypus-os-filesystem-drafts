@@ -1,7 +1,7 @@
 # Platypus OS Filesystem
 This is the best filesystem I could think of for my OS. All draft code, *hopefully* will be used for OS.
 ## `.github`
-The `.github` folder is just my important Dependabot thing
+The `.github` folder is just my important Dependabot thing and code scanning thingamajiger.
 ## `r`
 The `r` folder is `/`, but if you have ever created a folder in GitHub before, you can't call it that. I may keep that, but right now I don't know.
 ## `bin`
