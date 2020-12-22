@@ -20,6 +20,6 @@ Do what you can. This will (eventually) be implemented within Platypus OS, so it
 3. Adding CLIs. I want to have BASH, CROSH, and another one that I have somewhere in my mass of Google Drive folders.
 4. Adding programming languages. Need programming languages.
 ## WAIT!!!! This looks like the Linux/Unix filesystem!
-It's supposed to. I modeled it after the Linux/Unix filesystem. So can I go now? You told me to "WAIT!!!!" :) you did
+It's supposed to. I modeled it after the Linux/Unix filesystem. So can I go now? You told me to "WAIT!!!!", hey, you did hahahahahahahahahahahaha ok that's not funny
 ## Actually, no, the commands are all, BASH-y
 --uggghhh-- It was based on BASH. Now I'm going, and if you have a problem, stick it in issues, thanks!
