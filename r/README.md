@@ -7,5 +7,7 @@ The `bin` folder is a bin where all commands go for normal users.
 The `root` folder is where the `root` user's home directory is.
 ## The `sbin` Folder
 The `sbin` folder is a bin where `root`'s super special commands go.
+## The `sys` Folder
+The `sys` folder is where the OS goes and all the other `sys`tem stuff.
 ## The `y.o.p` Folder
 The `y.o.p` folder is where everybody else goes
